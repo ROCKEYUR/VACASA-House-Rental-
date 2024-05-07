@@ -1,0 +1,150 @@
+[
+    {
+      "cca2": "US",
+      "name": "New York",
+      "flag": "🇺🇸",
+      "latlng": [40.7128, -74.0060],
+      "region": "North America"
+    },
+    {
+      "cca2": "US",
+      "name": "Los Angeles",
+      "flag": "🇺🇸",
+      "latlng": [34.0549, -118.2426],
+      "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "name": "Las Vegas",
+        "flag": "🇺🇸",
+        "latlng": [36.1716, -115.1391],
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "name": "Miami",
+        "flag": "🇺🇸",
+        "latlng": [25.7617, -80.1918],
+        "region": "North America"
+    },
+    {
+        "cca2": "US",
+        "name": "Dallas",
+        "flag": "🇺🇸",
+        "latlng": [32.7767, -96.7970],
+        "region": "North America"
+    },
+    {
+        "cca2": "UK",
+        "name": "London",
+        "flag": "🇬🇧",
+        "latlng": [51.5072, 0.1276],
+        "region": "Europe"
+    },
+    {
+        "cca2": "UK",
+        "name": "Cambridge",
+        "flag": "🇬🇧",
+        "latlng": [52.1951, 0.1313],
+        "region": "Europe"
+    },
+    {
+        "cca2": "UK",
+        "name": "Oxford",
+        "flag": "🇬🇧",
+        "latlng": [51.7520, 1.2577],
+        "region": "Europe"
+    },
+    {
+        "cca2": "UK",
+        "name": "Birmingham",
+        "flag": "🇬🇧",
+        "latlng": [52.4823, 1.8900],
+        "region": "Europe"
+    },
+    {
+        "cca2": "India",
+        "name": "Mumbai",
+        "flag": "🇮🇳",
+        "latlng": [19.0760, 72.8777],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Delhi",
+        "flag": "🇮🇳",
+        "latlng": [28.7041, 77.1025],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Kolkata",
+        "flag": "🇮🇳",
+        "latlng": [22.5744, 88.3629],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Chennai",
+        "flag": "🇮🇳",
+        "latlng": [13.0843, 80.2705],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Banglore",
+        "flag": "🇮🇳",
+        "latlng": [12.9716, 77.5946],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Shimla",
+        "flag": "🇮🇳",
+        "latlng": [31.1048, 77.1734],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Manali",
+        "flag": "🇮🇳",
+        "latlng": [32.2432, 77.1892],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Panaji",
+        "flag": "🇮🇳",
+        "latlng": [15.5010, 73.8294],
+        "region": "Asia"
+    },
+    {
+        "cca2": "India",
+        "name": "Jaipur",
+        "flag": "🇮🇳",
+        "latlng": [26.9124, 75.7873],
+        "region": "Asia"
+    },
+    {
+        "cca2": "Canada",
+        "name": "Vancouver",
+        "flag": "🇨🇦",
+        "latlng": [49.2827, -123.1207],
+        "region": "North America"
+    },
+    {
+        "cca2": "Canada",
+        "name": "Toronto",
+        "flag": "🇨🇦",
+        "latlng": [43.6532, -79.3832],
+        "region": "North America"
+    },
+    {
+        "cca2": "Canada",
+        "name": "Ottawa",
+        "flag": "🇨🇦",
+        "latlng": [45.4201, -75.7003],
+        "region": "North America"
+    }
+    
+  ]
